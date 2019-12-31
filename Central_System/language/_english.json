@@ -1,0 +1,182 @@
+{
+  "lang_skel":{
+    "< Error: Missing program file 'language' >": "< Error: Missing program file 'language' >",
+
+    "< Error: Missing program file '_spanish.json' or _italian.json' >":
+        "< Error: Missing program file '_spanish.json' or _italian.json' >",
+
+    "Management of Sensors": "Management of Sensors",
+    "Management of Systems": "Management of Systems",
+    "Configuration": "Configuration",
+    "Language": "Language",
+    "Exit": "Exit",
+
+    "English": "English",
+    "Italian": "Italian",
+    "Spanish": "Spanish",
+
+    "New     System": "New     System",
+    "Delete  System": "Delete  System",
+    "Assign  Sensor": "Assign  Sensor",
+    "Removal Sensor": "Removal Sensor",
+    "Monitoring": "Monitoring",
+    "Back": "Back",
+
+    "New    Sensor": "New    Sensor",
+    "Delete Sensor": "Delete Sensor",
+    "Change Sensor": "Change Sensor",
+
+    "< Choose a System >": "< Choose a System >",
+    "< Choose a Sensor >": "< Choose a Sensor >",
+    "< Type 0 for go back >": "< Type 0 for go back >",
+
+    "< Enter the name of the system >": "< Enter the name of the system >",
+    "< Enter the local of the system >": "< Enter the local of the system >",
+    "< Only letters and numbers without spaces or symbols >":
+        "< Only letters and numbers without spaces or symbols >",
+
+    "< Error: A system with that name already exists >": "< Error: A system with that name already exists >",
+    "< Error: You have not entered a valid name for the local >":
+        "< Error: You have not entered a valid name for the local >",
+    "< Error: You have not entered a valid name for the system >":
+        "< Error: You have not entered a valid name for the system >",
+    "< System successfully added >": "< System successfully added >",
+
+    "Delete sensor from the embedded system": "Delete sensor from the embedded system",
+    "Delete sensor completely": "Delete sensor completely",
+
+    "< Choose a number from the menu >": "< Choose a number from the menu >",
+
+    "Create a sensor of:": "Create a sensor of:",
+    "Light": "Light",
+    "CO2": "CO2",
+    "Humidity": "Humidity",
+    "Infrared": "Infrared",
+    "NFC": "NFC",
+
+    "< Enter the number of one of the options >": "< Enter the number of one of the options >",
+    "< Sensor successfully added >": "< Sensor Sensor successfully added >",
+
+    "< Invalid option >": "< Invalid option >",
+
+    "< Creation performed correctly >": "< Creation performed correctly >",
+
+    "< Insert current value >": "< Insert current value >",
+    "< Insert sampling frequency >": "< Insert sampling frequency >",
+    "< Insert message frequency >": "< Insert message frequency >",
+
+    "Load default config": "Load default config",
+    "Load saved config": "Load saved config",
+
+    "< Configuration loaded successfully >": "< Configuration loaded successfully >",
+    "< Configuration saved successfully >": "< Configuration saved successfully >",
+    "< Insert the name of the file without extension >": "< Insert the name of the file without extension >",
+
+    "< There is no data to save >": "< No There is no data to save >",
+    "< Save the config >": "< Save the config >",
+    "< Error saving the file >": "< Error saving the file >",
+
+    "User Name: ": "User Name: ",
+    "Password: ": "Password: ",
+    
+    "< Choose the name of the DataBase >": "< Choose the name of the DataBase >",
+    "< If you write a new name a new DataBase will be created >": "< If you write a new name a new DataBase will be created >",
+
+    "< Error: control your internet connection >": "< Error: control your internet connection >",
+    "< The information was successfully uploaded to the server >":
+        "< The information was successfully uploaded to the server >",
+    "< The ID of the file is: ": "< The ID of the file is: ",
+    "< Error: can't access to the data base server >": "< Error: can't access to the data base server >",
+    "< Control your credentials >": "< Control your credentials >",
+
+    "Show all the config files in DB": "Show all the config files in DB",
+    "Download config file from DB": "Download config file from DB",
+    "< Files in the database >": "< Files in the database >",
+    "File name: ": "File name: ",
+    "< List of all the files in the server >": "< List of all the files in the server >",
+    "< Insert the name of a file >": "< Insert the name of a file >",
+    "New file created: ": "New file created: ",
+
+    "< Your Internet is off, use the safe mode >": "< Your Internet is off, use the safe mode >",
+    "< For exit: Ctrl+D >": "< For exit: Ctrl+D >",
+
+    "Welcome!": "Welcome!",
+    "< Logging performed correctly >": "< Logging performed correctly >",
+
+    "Common Mode": "Common Mode",
+    "Standard Mode": "Standard Mode",
+    "Logging Mode": "Logging Mode",
+    "Rough Mode": "Rough Mode",
+
+    "< Do you want to exit the program? >": "< Do you want to exit the program? >",
+    "< Write 'y' or 'Y' to confirm, other to cancel >": "< Write 'y' or 'Y' to confirm, other to cancel >",
+    "y": "y",
+    "Y": "Y",
+    "< Preparing system for shutdown >": "< Preparing system for shutdown >",
+
+    "< There are no sensors >": "< There are no sensors >",
+    "< Cancellation completed successfully >": "< Cancellation completed successfully >",
+    "Current value": "Current value",
+    "Message frequency": "Message frequency",
+    "Sampling frequency": "Sampling frequency",
+
+    "< Which parameter do you want to change? >": "< Which parameter do you want to change? >",
+    "< Enter current value >": "< Enter current value >",
+    "< Enter Sampling frequency >": "< Enter Sampling frequency >",
+    "< Enter Message frequency >": "< Enter Message frequency >",
+
+    "< These are all registered sensors >": "< These are all registered sensors >",
+    "< Press enter to go back >": "< Press enter to go back >",
+
+    "< There are no systems >": "< There are no systems >",
+    "< The sensor has been inserted into the system: ": "< The sensor has been inserted into the system: ",
+    "< The sensor is already assigned to a system >": "< The sensor is already assigned to a system >",
+    "< Removal from the system performed correctly >": "< Removal from the system performed correctly >",
+    "< Total elimination of the sensor correctly executed >": "< Total elimination of the sensor correctly executed >",
+    "< There are no sensors associated with this system >": "< There are no sensors associated with this system >",
+    "< The sensor is not associated with a system >": "< The sensor is not associated with a system >",
+    "< To delete it use the Sensors menu >": "< To delete it use the Sensors menu >",
+
+    "< These are all registered systems >": "< These are all registered systems >",
+
+    "Load Configuration": "Load Configuration",
+    "Save Configuration": "Save Configuration",
+    "Load from DataBase": "Load from DataBase",
+    "Save  to  DataBase": "Save  to  DataBase",
+
+    "< Error: Type of values entered incorrect >": "< Error: Type of values entered incorrect >",
+    "< Error: Incorrect values entered >": "< Error: Incorrect values entered >",
+    "< Error: The file already exists >": "< Error: The file already exists >",
+    "< Error: Can't access to the file >": "< Error: Can't access to the file >",
+    "< Error: Input / Output >": "< Error: Input / Output >",
+    "< Attention: The script of the program could be compromised, contact responsible >":
+        "< Attention: The script of the program could be compromised, contact responsible >",
+    "< Error: Generic >": "< Error: Generic >",
+    
+    "System name: ": "System name: ",
+    "Local: ": "Local: ",
+    "None": "None",
+    "Kind sensor: ": "Kind sensor: ",
+    "Current value: ": "Current value: ",
+    "Battery status: ": "Battery status: ",
+    "Sampling frequency: ": "Sampling frequency: ",
+    "Message frequency: ": "Message frequency: "
+},
+
+
+"lang_build": {
+    "System name: ": "System name: ",
+    "Local: ": "Local: ",
+    "None": "None",
+    "Kind sensor: ": "Kind sensor: ",
+    "Current value: ": "Current value: ",
+    "Battery status: ": "Battery status: ",
+    "Sampling frequency: ": "Sampling frequency: ",
+    "Message frequency: ": "Message frequency: ",
+    "Light": "Light",
+    "CO2": "CO2",
+    "Humidity": "Humidity",
+    "Infrared": "Infrared",
+    "NFC": "NFC"
+}
+}

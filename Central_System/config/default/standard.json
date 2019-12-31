@@ -1,0 +1,28 @@
+{
+  "systems": [
+    {
+      "system_name": "System",
+      "local": "Local",
+      "environment": [
+        {
+          "kind": "Sensor",
+          "current_value": 0,
+          "battery_status": true,
+          "message_freq": 1,
+          "sampling_freq": 1,
+          "system_name": "System"
+        }
+      ]
+    }
+  ],
+  "sensors": [
+    {
+      "kind": "Light",
+      "current_value": 0,
+      "battery_status": true,
+      "message_freq": 1,
+      "sampling_freq": 1,
+      "system_name": "System"
+    }
+  ]
+}

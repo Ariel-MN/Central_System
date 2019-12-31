@@ -1,0 +1,183 @@
+{
+  "lang_skel":{
+    "< Error: Missing program file 'language' >": "< Errore: file di programma mancante 'language' >",
+
+    "< Error: Missing program file '_spanish.json' or _italian.json' >":
+        "< Error: Missing program file '_spanish.json' o _italian.json' >",
+
+    "Management of Sensors": "Gestione dei Sensori",
+    "Management of Systems": "Gestione dei Sistemi",
+    "Configuration": "Configurazione",
+    "Language": "Lingua",
+    "Exit": "Uscire",
+
+    "English": "Inglese",
+    "Italian": "Italiano",
+    "Spanish": "Spagnolo",
+
+    "New     System": "Nuovo     Sistema",
+    "Delete  System": "Eliminare Sistema",
+    "Assign  Sensor": "Asegnare  Sensore",
+    "Removal Sensor": "Rimuovere Sensore",
+    "Monitoring": "Monitorare",
+    "Back": "Indietro",
+
+    "New    Sensor": "Nuovo      Sensore",
+    "Delete Sensor": "Eliminare  Sensore",
+    "Change Sensor": "Modificare Sensore",
+
+    "< Choose a System >": "< Scegli un Sistema >",
+    "< Choose a Sensor >": "< Scegli un Sensore >",
+    "< Type 0 for go back >": "< Digita 0 per tornare indietro >",
+
+    "< Enter the name of the system >": "< Inserire il nome del sistema >",
+    "< Enter the local of the system >": "< Inserire il locale del sistema >",
+    "< Only letters and numbers without spaces or symbols >":
+        "< Solo lettere e numeri senza spazi o simboli >",
+
+    "< Error: A system with that name already exists >": "< Errore: Esiste un sistema con questo nome >",
+    "< Error: You have not entered a valid name for the local >":
+        "< Errore: Non hai inserito un nome valido per il locale >",
+    "< Error: You have not entered a valid name for the system >":
+        "< Errore: Non hai inserito un nome valido per il sistema >",
+    "< System successfully added >": "< Sistema aggiunto con successo >",
+
+    "Delete sensor from the embedded system": "Rimuove il sensore dal sistema embedded",
+    "Delete sensor completely": "Elimina completamente il sensore",
+
+    "< Choose a number from the menu >": "< Scegli un numero dal menu >",
+
+    "Create a sensor of:": "Crea un sensore di:",
+    "Light": "Luce",
+    "CO2": "CO2",
+    "Humidity": "Umidita",
+    "Infrared": "Infrarosso",
+    "NFC": "NFC",
+
+    "< Enter the number of one of the options >": "< Inserire il numero di una delle opzioni >",
+    "< Sensor successfully added >": "< Sensore aggiunto con successo >",
+
+    "< Invalid option >": "< Opzione non valida>",
+
+    "< Creation performed correctly >": "< Creazione eseguita correttamente >",
+
+    "< Insert current value >": "< Inserisci il valore attuale >",
+    "< Insert sampling frequency >": "< Inserisci frequenza di campionamento >",
+    "< Insert message frequency >": "< Inserisci frequenza di messaggio >",
+
+    "Load default config": "Carica configurazione di default",
+    "Load saved config": "Carica configurazione salvata",
+
+    "< Configuration loaded successfully >": "< Configurazione caricata correttamente >",
+    "< Configuration saved successfully >": "< Configurazione salvata correttamente >",
+    "< Insert the name of the file without extension >": "< Inserisci il nome del file senza estensione >",
+
+    "< There is no data to save >": "< Non ci sono dati da salvare >",
+    "< Save the config >": "< Salva la configurazione >",
+    "< Error saving the file >": "< Errore nel salvataggio del file >",
+
+    "User Name: ": "Nome utente: ",
+    "Password: ": "Password: ",
+
+"< Choose the name of the DataBase >": "< Scegli il nome del DataBase >",
+    "< If you write a new name a new DataBase will be created >": "< Se scrivi un nuovo nome, creerai un nuovo DataBase >",
+
+
+    "< Error: control your internet connection >": "< Errore: controlla la tua connessione internet >",
+    "< The information was successfully uploaded to the server >":
+        "< Le informazioni sono state correttamente caricate sul server >",
+    "< The ID of the file is: ": "< ID del file: ",
+    "< Error: can't access to the data base server >": "< Errore: impossibile accedere al server del database >",
+    "< Control your credentials >": "< Controlla le tue credenziali >",
+
+    "Show all the config files in DB": "Mostra tutti i file di configurazione nel DB",
+    "Download config file from DB": "Scarica un file di configurazione dal DB",
+    "< Files in the database >": "< File nel database >",
+    "File name: ": "Nome del file: ",
+    "< List of all the files in the server >": "< Elenco di tutti i file nel server >",
+    "< Insert the name of a file >": "< Inserisci il nome di un file >",
+    "New file created: ": "Nuovo file creato: ",
+
+    "< Your Internet is off, use the safe mode >": "< Internet spento, usa il modo sicuro >",
+    "< For exit: Ctrl+D >": "< Per uscire: Ctrl+D >",
+
+    "Welcome!": "Benvenuto!",
+    "< Logging performed correctly >": "< Registrazione eseguita correttamente >",
+
+    "Common Mode": "Modo Comune",
+    "Standard Mode": "Modo Standard",
+    "Logging Mode": "Modo Registrazione",
+    "Rough Mode": "Modo Grezzo",
+
+    "< Do you want to exit the program? >": "< Vuoi uscire dal programma? >",
+    "< Write 'y' or 'Y' to confirm, other to cancel >": "< Scrivi 's' o 'S' per confermare, altro per annullare >",
+    "y": "s",
+    "Y": "S",
+    "< Preparing system for shutdown >": "< Preparazione del sistema per l'arresto >",
+
+    "< There are no sensors >": "< Non ci sono sensori >",
+    "< Cancellation completed successfully >": "< Cancellazione completata con successo >",
+    "Current value": "Valore attuale",
+    "Message frequency": "Frequenza di messaggio",
+    "Sampling frequency": "Frequenza di campionamento",
+
+    "< Which parameter do you want to change? >": "< Quale parametro vuole cambiare? >",
+    "< Enter current value >": "< Inserire il valore attuale >",
+    "< Enter Sampling frequency >": "< Inserisci la frequenza di campionamento >",
+    "< Enter Message frequency >": "< Inserire la frequenza di messaggio >",
+
+    "< These are all registered sensors >": "< Questi sono tutti i sensori registrati >",
+    "< Press enter to go back >": "< Premi Invio per tornare indietro >",
+
+    "< There are no systems >": "< Non ci sono sistemi >",
+    "< The sensor has been inserted into the system: ": "< Sensore inserito nel sistema: ",
+    "< The sensor is already assigned to a system >": "< Sensore assegnato a sistema >",
+    "< Removal from the system performed correctly >": "< Rimozione dal sistema eseguita correttamente >",
+    "< Total elimination of the sensor correctly executed >": "< Eliminazione totale del sensore eseguita correttamente >",
+    "< There are no sensors associated with this system >": "< Non ci sono sensori associati a questo sistema >",
+    "< The sensor is not associated with a system >": "< Sensore non associato ad un sistema >",
+    "< To delete it use the Sensors menu >": "< Per cancellarlo usa il menu Sensori >",
+
+    "< These are all registered systems >": "< Questi sono tutti i sistemi registrati >",
+
+    "Load Configuration": "Carica Configurazione",
+    "Save Configuration": "Salva  Configurazione",
+    "Load from DataBase": "Carica da DataBase",
+    "Save  to  DataBase": "Salva  in DataBase",
+
+    "< Error: Type of values entered incorrect >": "< Errore: tipo di valori inseriti errati >",
+    "< Error: Incorrect values entered >": "< Errore: valori errati inseriti >",
+    "< Error: The file already exists >": "< Errore: file duplicato >",
+    "< Error: Can't access to the file >": "< Errore: impossibile accedere al file >",
+    "< Error: Input / Output >": "< Errore: Ingresso / Uscita >",
+    "< Attention: The script of the program could be compromised, contact responsible >":
+        "< Attenzione: il codice del programma potrebbe essere compromesso, contattare il responsabile >",
+    "< Error: Generic >": "< Errore: Generico >",
+    
+    "System name: ": "Nome Sistema: ",
+    "Local: ": "Locale: ",
+    "None": "Nessuno",
+    "Kind sensor: ": "Tipo sensore: ",
+    "Current value: ": "Valore attuale: ",
+    "Battery status: ": "Stato batteria: ",
+    "Sampling frequency: ": "Frequenza di campionamento: ",
+    "Message frequency: ": "Frequenza di messaggio: "
+},
+
+
+"lang_build": {
+    "System name: ": "Nome Sistema: ",
+    "Local: ": "Locale: ",
+    "None": "Nessuno",
+    "Kind sensor: ": "Tipo sensore: ",
+    "Current value: ": "Valore attuale: ",
+    "Battery status: ": "Stato batteria: ",
+    "Sampling frequency: ": "Frequenza di campionamento: ",
+    "Message frequency: ": "Frequenza di messaggio: ",
+    "Light": "Luce",
+    "CO2": "CO2",
+    "Humidity": "Umidita",
+    "Infrared": "Infrarossa",
+    "NFC": "NFC"
+}
+}
