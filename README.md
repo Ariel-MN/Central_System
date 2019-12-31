@@ -1,6 +1,6 @@
 # Central_System
 
-## A program that control & monitor sensors and embedded systems.
+### A program that control & monitor sensors and embedded systems.
 
 
 								 	  
