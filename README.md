@@ -16,7 +16,7 @@
 									  
 	    ________________________________________________		  
 	   |						    |		  
-	   |		 <b>PROGRAM  REQUIRIMENTS:</b>		    |		  
+	   |		 PROGRAM  REQUIRIMENTS:		    |		  
 	   |						    |		  
 	   | 1. Linux OS.			    	    |		  
 	   | 						    |		  
