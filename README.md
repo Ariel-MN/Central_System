@@ -1,5 +1,9 @@
 # Central System
 
+[![Created Repository](https://badges.pufler.dev/created/Ariel-MN/Central_System)](https://github.com/Ariel-MN/Central_System/)
+[![Updated Repository](https://badges.pufler.dev/updated/Ariel-MN/Central_System)](https://github.com/Ariel-MN/Central_System/)
+[![Visits Repository](https://badges.pufler.dev/visits/Ariel-MN/Central_System)](https://github.com/Ariel-MN/Central_System/)
+
 ### A program that control & monitor sensors and embedded systems.
 
 
